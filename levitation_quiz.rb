@@ -1,4 +1,3 @@
-
 def levitation_quiz
 	#your code here
 	loop do 
@@ -8,5 +7,3 @@ def levitation_quiz
 	 end
 	 puts "You passed the quiz!"
 end
-
-levitation_quiz
